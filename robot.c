@@ -6,7 +6,8 @@
  *
  * @author Tanya L. Crenshaw, Nathan Schmedake, noah lafave
  * @since August 2013
- *
+ * @author Sean Colvin
+ * @since 12/3/19
  */
 
 #include "robot.h"
@@ -64,9 +65,9 @@ void dalekPrintAscii(void)
          "%s     <  (0)  >     \n"        
          "%s     | dooob |     \n"
          "%s    < ------- >    \n"
-         "%s    o         o    \n"
+         "%s    o ......  o    \n"
          "%s    o  0  ()  o    \n"
-	 "%s   o           o   \n"
+	 "%s   o ........  o   \n"
    	 "%s o o o o o o o o o \n"
    	 "%s o g r o b e r t o \n"
    	 "%s m y n a m e jeffo \n"
